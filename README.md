@@ -38,11 +38,12 @@ This repository contains a presentation for an introduction to web accessibility
 ## License
 
 Introduction to Web Accessibility
-
-MIT licensed
 Copyright (C) 2016 Dan Lewis
 
 Reveal.js
+Copyright (C) 2016 Hakim El Hattab, http://hakim.se
+
+reveal-a11y
+Copyright (C) 2015 Marcy Sutton, http://marcysutton.com
 
 MIT licensed
-Copyright (C) 2016 Hakim El Hattab, http://hakim.se

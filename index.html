@@ -11,6 +11,8 @@
 
 		<!-- Theme used for syntax highlighting of code -->
 		<link rel="stylesheet" href="lib/css/zenburn.css">
+		<!-- Accessibility helper -->
+		<link rel="stylesheet" href="plugin/accessibility/helper.css">
 
 		<!-- Printing and PDF exports -->
 		<script>
@@ -42,7 +44,9 @@
 					{ src: 'plugin/markdown/marked.js' },
 					{ src: 'plugin/markdown/markdown.js' },
 					{ src: 'plugin/notes/notes.js', async: true },
-					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+					// Accessibility helper: https://github.com/marcysutton/reveal-a11y
+					{ src: 'plugin/accessibility/helper.js', async: true, condition: function() { return !!document.body.classList; } }
 				]
 			});
 		</script>
