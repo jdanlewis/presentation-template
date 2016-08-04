@@ -40,7 +40,7 @@ This repository contains a presentation for an introduction to web accessibility
 Introduction to Web Accessibility
 Copyright (C) 2016 Dan Lewis
 
-Reveal.js
+reveal.js
 Copyright (C) 2016 Hakim El Hattab, http://hakim.se
 
 reveal-a11y
