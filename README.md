@@ -1,6 +1,6 @@
-# Introduction to Web Accessibility
+# Presentation Template
 
-This repository contains a presentation for an introduction to web accessibility.
+This repository contains a presentation template using [reveal.js](https://github.com/hakimel/reveal.js) and [reveal-ally](https://github.com/marcysutton/reveal-a11y).
 
 ## Setup
 
@@ -36,9 +36,6 @@ This repository contains a presentation for an introduction to web accessibility
 
 
 ## License
-
-Introduction to Web Accessibility
-Copyright (C) 2016 Dan Lewis
 
 reveal.js
 Copyright (C) 2016 Hakim El Hattab, http://hakim.se
